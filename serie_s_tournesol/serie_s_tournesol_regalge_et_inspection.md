@@ -13,9 +13,9 @@
 
 Basse (550 tr/min) pour les conditions normales et difficiles. 
 
-Dans des conditions sèches et cassantes, la vitesse peut être abaissée à 320 tr/min en
-installant le kit BXE10741 (320 tr/min/770 tr/min). 
+Dans des conditions sèches et cassantes, la vitesse peut être abaissée à 320 tr/min en installant le kit BXE10741 (320 tr/min/770 tr/min). 
 
+<<<<<<< Updated upstream
 Cela permettra de réduire
 l’endommagement de la paille et de réduire la charge du caisson. Dans les
 conditions sèches, le pignon à 770 tr/min du kit BXE10741 peut ensuite être
@@ -70,3 +70,6 @@ La grille à otons universelle et la grille à grain universelle sont les plus c
 ![images/img18.jpg](images/img18.jpg)
 ![images/img20.jpg](images/img20.jpg)
 Il est possible de poser une grille à otons hautes performances, qui permet d'obtenir un échantillon de trémie plus propre et une réduction de la charge d'otons lorsque que les performances sont limitées par le caisson de nettoyage.
+=======
+Cela permettra de réduire l’endommagement de la paille et de réduire la charge du caisson. Dans les conditions sèches, le pignon à 770 tr/min du kit BXE10741 peut ensuite être utilisé pour les petites céréales.
+>>>>>>> Stashed changes
