@@ -1,1 +1,0 @@
-# Prêt à la récolte pour les tournesols
