@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Optimisation de la moissonneuse-batteuse série S</mainbooktitle>
+    </booktitle>
+    <chapter>
+        <topicref href="serie_s_ble/series_s_ble_page_de_garde.md" format="markdown"/>
+        <topicref href="serie_s_ble/serie_s_ble_reglage_et_inspection.md" format="markdown"/>
+    </chapter>
+</bookmap>
