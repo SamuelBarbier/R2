@@ -2,4 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Series S - Blé</title>
+    <topicref href="serie_s_ble_contre-batteurs.md" format="markdown"/>
+    <topicref href="serie_s_ble_grilles_de_separation.md" format="markdown"/>
+    <topicref href="serie_s_ble_Reglages_organes_battage.md" format="markdown"/>
+    <topicref href="serie_s_ble_composants_caisson_nettoyage.md" format="markdown"/>
 </map>
