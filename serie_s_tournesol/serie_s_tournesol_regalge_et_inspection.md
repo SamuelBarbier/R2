@@ -69,7 +69,70 @@ Ces recommandations de réglages constituent un point de départ et mais elles p
 La grille à otons universelle et la grille à grain universelle sont les plus couramment utilisées.
 ![images/img18.jpg](images/img18.jpg)
 ![images/img20.jpg](images/img20.jpg)
-Il est possible de poser une grille à otons hautes performances, qui permet d'obtenir un échantillon de trémie plus propre et une réduction de la charge d'otons lorsque que les performances sont limitées par le caisson de nettoyage.
-=======
+
 Cela permettra de réduire l’endommagement de la paille et de réduire la charge du caisson. Dans les conditions sèches, le pignon à 770 tr/min du kit BXE10741 peut ensuite être utilisé pour les petites céréales.
->>>>>>> Stashed changes
+
+Les diviseurs des vis d'alimentation doivent être réglés pour obtenir une répartition uniforme du caisson de nettoyage. 
+
+Le relevage des tôles permet de réduire la quantité de matière à l'extérieur. 
+
+![images/img21.jpg](images/img21.jpg)
+
+Il est possible de poser une pré-grille à otons réglable pour empêcher l'accumulation de tiges dans la grille. Le résultat obtenue dépend des conditions.
+
+Attention : Ne pas utliser l'extension de pré-grille sur la récolte de tournesol. 
+
+![images/img23.jpg](images/img23.jpg)
+
+## Réglage du caisson 
+
+|  Élément | Réglage standard  | Réglage haute performance  |
+|---|---|---|
+|Ouverture de la grille à otons | 14 mm|16 mm|
+|Extension de la grille à otons| 0 mm|  0mm |
+|Ouverture de la grille à grain |5 mm   |6 mm   |
+|Régime du ventilateur |780 tr/min   |Optimiser et augmenter  |
+
+Les réglages haute performance s'appliquent lors de l'utilisation d'une grille à otons ou à grain hautes performances.
+
+Ajustez le régime du ventilateur selon les conditions de récolte avec la grille haute performance.
+
+La pré-grille à otons réglable doit être réglée à 6 mm si elle est équipée. 
+
+L'utilisation du système Active Terrain Adjustment est recommandée, même sur terrain légèrement vallonné, pour optimiser l'échantillon de trémie et gérer le volume d'otons.
+
+![images/img24.jpg](images/img24.jpg)
+
+## Transport du grain
+
+Les couvercles de vis transversale doivent être maintenus en position relevée pour la plupart des conditions de récolte.
+
+![images/img25.jpg](images/img25.jpg)
+
+Le déflecteur situé au niveau de la vis de remplissage de la trémie à grain est ajustable. Ce réglage permet de modifier la distribution du grain dans la trémie. Lorsque le déflecteur est positionné comme illustré, il dirige le chargement de la trémie à grain davantage vers la droite.
+
+![images/img26.jpg](images/img26.jpg)
+
+## Composants du système de résidus
+
+Les palettes incurvées doivent être installées sur un segment sur deux de l'épandeur à disques. Cette disposition assure une répartition uniforme des résidus.
+
+![images/img27.jpg](images/img27.jpg)
+
+Le couvercle sous le tambour d'alimentation doit être retiré lors de la récolte de petites céréales pour éviter les enroulements.
+
+![images/img28.jpg](images/img28.jpg)
+
+Pour la configuration Premium, un ralentisseur de chute est disponible. Il améliore la forme des andains et favorise un séchage plus rapide de la paille.
+
+![images/img29.jpg](images/img29.jpg)
+
+## Réglages des résidus
+
+Réglez le régime du broyeur sur élevé. Enclenchez les contre-couteaux uniquement si nécessaire pour économiser l'énergie.
+
+![images/img30.jpg](images/img30.jpg)![images/img32.jpg](images/img32.jpg)
+
+Positionnez le déflecteur de rafles en position relevée pour les petites céréales. Pour optimiser la répartition des résidus, ajustez les ailettes du déflecteur arrière ou du volet de broyage.
+
+![images/img33.jpg](images/img33.jpg)![images/img35.jpg](images/img35.jpg)
