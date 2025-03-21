@@ -108,3 +108,26 @@ Suivant équipement, la pré-grille à otons réglable doit être réglée sur l
 
 > **Remarque** :
 > Le régime du ventilateur doit être supérieur de 100 tr/min avec une grille à otons hautes performances.
+
+## Transporter du grain
+
+Lors du transport, les couvercles de vis transversale doivent être relevés. Pour un niveau d'humidité supérieur à 24 % lors de la récolte, il peut être nécessaire de les abaisser. Le déflecteur au niveau de la vis de remplissage de la trémie à grain peut être réglé pour modifier le chargement de la trémie à grain. La position illustrée permet de charger la trémie à grain plus à droite. 
+
+## Installer les composants du système de résidus
+
+1. Posez les palettes incurvées (1) sur chaque deuxième segment de l'épandeur à disques Advanced PowerCast.
+1. Retirez le couvercle situé sous le tambour d'alimentation (2).
+1. Placez le ralentisseur de chute (3), en configuration Premium uniquement, afin d'améliorer la formes des andains et accélérer le séchage de la paille.
+
+## Régler les résidus
+
+1. Réglez le régime du broyeur (1) sur **élevé**.
+1. Enclenchez les contre-couteaux (2). Une utilisation inadéquate des contre-couteaux peut engendrer une consommation d'énergie inutilie.
+1. Posez la barre d'ancrage (3) sur le plancher du broyeur à coupe fine (44 couteux) pour augmenter la qualité du broyage.
+1. Réglez le déflecteur de rafles (4) en position relevée/petites céréales.
+1. Ajustez les ailettes du déflécteur arrière ou du volet de broyage/andainage (5) pour améliorer la répartition des résidus.
+
+### Conseils et astuces
+
+* Afin de prendre les mesures adéquates en cas de perte, déterminez l'origine de la perte :
+* 
