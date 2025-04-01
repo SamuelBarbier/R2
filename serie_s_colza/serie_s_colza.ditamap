@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Série S Colza</title>
+    <topicref href="page_de_garde.md" format="markdown"/>
+    <topicref href="table_des_matieres.md" format="markdown"/>
+    <topicref href="preface.md" format="markdown"/>
+</map>
