@@ -1,3 +1,3 @@
-![Planche botanique de colza](/images/00_colza_botanique.jpg)
+Le colza c'est mims
 
-Le colza c'est joli
+![Planche botanique de colza](images/00_colza_botanique.jpg)
