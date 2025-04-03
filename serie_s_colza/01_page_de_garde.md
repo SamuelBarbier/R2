@@ -2,7 +2,7 @@
 
 ## « Prêt à la récolte » pour le colza
 
-*Insérer image*
+![Photo de moissonneuse-batteuse](images/01_pdg.JPG)
 
-**Usine John Deere, Deux-Ponts, Allemagne (trad à refaire)**
+**Usine John Deere, Deux-Ponts, Allemagne**
 
