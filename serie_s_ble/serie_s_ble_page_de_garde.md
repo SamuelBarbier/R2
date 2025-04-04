@@ -1,4 +1,4 @@
-# Optimisation de la moissoneuse-batteuse série S
+# Optimisation de la moissonneuse-batteuse série S
 
 ---
 

@@ -4,7 +4,7 @@
     <booktitle>
         <mainbooktitle>Optimisation de la moissonneuse-batteuse série S</mainbooktitle>
     </booktitle>
-    <chapter>
-        <topicref href="serie_s_ble/serie_s_ble_reglage_et_inspection.md" format="markdown"/>
-    </chapter>
+    <chapter href="serie_s_ble/series_s_ble.ditamap" format="ditamap"/>
+    <chapter href="serie_s_orge/serie_s_orge.ditamap" format="ditamap"/>
+    <chapter href="serie_s_tournesol/series_s_tournesol.ditamap" format="ditamap"/>
 </bookmap>
