@@ -2,4 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>canola</title>
+    <topicref href="configuration_plateforme.md" format="markdown"/>
+    <topicref href="convoyeur_alimentation.md" format="markdown"/>
+    <topicref href="battage_serie_t.md" format="markdown"/>
+    <topicref href="battage_serie_w.md" format="markdown"/>
 </map>
