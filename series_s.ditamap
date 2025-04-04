@@ -5,7 +5,6 @@
         <mainbooktitle>Optimisation de la moissonneuse-batteuse série S</mainbooktitle>
     </booktitle>
     <chapter>
-        <topicref href="serie_s_ble/serie_s_ble_page_de_garde.md" format="markdown"/>
         <topicref href="serie_s_ble/serie_s_ble_reglage_et_inspection.md" format="markdown"/>
     </chapter>
 </bookmap>
