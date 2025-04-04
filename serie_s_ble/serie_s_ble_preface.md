@@ -13,7 +13,7 @@ considérées comme point de départ. D’autres réglages plus précis
 devront être réalisés par la suite en fonction des conditions et de la 
 teneur en humidité de la récolte.
 
-La partie [Conseils et astuces](#conseils-et-astuces) vous aidera à réaliser un réglage de 
+La partie [Conseils et astuces](serie_s_ble_reglage_et_inspection.md#conseils-et-astuces) vous aidera à réaliser un réglage de 
 précision de la machine. Le système embarqué de réglage interactif 
 de la moissonneuse-batteuse, (si équipé) doit également être utilisé
 pour obtenir des conseils supplémentaires de réglage de la part de la 
