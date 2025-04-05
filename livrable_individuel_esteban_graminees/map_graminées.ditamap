@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Conversion de récolte - Graminées</title>
+    <topicref
+        href="topics/cc_grass.md"
+        format="markdown">
+        <topicref
+            href="topics/configuration_plateforme.md"
+            format="markdown"/>
+        <topicref
+            href="topics/convoyeur_alimentation.md"
+            format="markdown"/>
+        <topicref href="topics/battage.md" format="markdown"/>
+        <topicref href="topics/contre_batteurs_sectionnels.md" format="markdown"/>
+        <topicref href="topics/plage_regime_batteurs.md" format="markdown"/>
+        <topicref href="topics/separation.md" format="markdown"/>
+        <topicref href="topics/caisson_nettoyage.md" format="markdown"/>
+        <topicref href="topics/regime_ventilateur.md" format="markdown"/>
+        <topicref href="topics/manutention_grain.md" format="markdown"/>
+        <topicref href="topics/changement_rapport_tremie.md" format="markdown"/>
+        <topicref href="topics/joint_cadran.md" format="markdown"/>
+        <topicref href="topics/bxe.md" format="markdown"/>
+        <topicref href="topics/residus.md" format="markdown">
+            <topicref href="topics/eparpilleur.md" format="markdown"/>
+            <topicref href="topics/contre_couteaux.md" format="markdown"/>
+            <topicref href="topics/barre_transversale.md" format="markdown"/>
+        </topicref>
+    </topicref>
+</map>
