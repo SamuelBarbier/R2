@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>canola</title>
+    <title>Conversion de récolte - colza</title>
     <topicref href="configuration_plateforme.md" format="markdown"/>
     <topicref href="convoyeur_alimentation.md" format="markdown"/>
     <topicref href="battage_serie_t.md" format="markdown"/>
