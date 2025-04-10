@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="procédure-de-calibrage-du-rendement-de-la-moissonneuse-batteuse-utilisant-la-console-s600s2630"
+               path="intro.html"/>
+   <appContext helpID="calibrage-de-la-température" path="calibrage_temperature.html"/>
+   <appContext helpID="calibrage-de-vibration-du-capteur-de-débit-massique"
+               path="calibrage_vibration_capteur_debit_massique.html"/>
+   <appContext helpID="correction-et-calibrage-de-lhumidité"
+               path="correction_calibrage_humidite.html"/>
+   <appContext helpID="calibrage-du-rendement" path="calibrage_rendement.html"/>
+</map>
