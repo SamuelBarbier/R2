@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Documentation John Deere</title>
+    <topicref href="intro.md" format="markdown">
+        <topicref href="calibrage_temperature.md" format="markdown"/>
+        <topicref href="calibrage_vibration_capteur_debit_massique.md" format="markdown"/>
+        <topicref href="correction_calibrage_humidite.md" format="markdown"/>
+        <topicref href="calibrage_rendement.md" format="markdown"/>
+    </topicref>
+</map>
