@@ -14,6 +14,26 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>conversion_recolte_pois/pois.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/dita/ditamap.framework/DITA Map/DITA Map WebHelp Responsive</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>serie_s_orge/serie_s_orge.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -74,7 +94,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../../../../../../Downloads/lol/main/installation_manual_canadian_solar.ditamap</String>
+                                    <String>file:/../../Downloads/lol/main/installation_manual_canadian_solar.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>

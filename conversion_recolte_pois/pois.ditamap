@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Séries W et T - Conversion de récolte - Haricots et pois</title>
+    <topicref href="Article/conversion.md" format="markdown">
+        <topicref href="Article/plateformes.md" format="markdown"/>
+        <topicref href="Article/battage.md" format="markdown">
+            <topicref href="Article/regime.md" format="markdown"/>
+            <topicref href="Article/contre_batteur.md" format="markdown"/>
+        </topicref>
+        <topicref href="Article/separation.md" format="markdown"/>
+        <topicref href="Article/caisson.md" format="markdown"/>
+        <topicref href="Article/manutention.md" format="markdown"/>
+        <topicref href="Article/residu.md" format="markdown">
+            <topicref href="Article/eparpilleur.md" format="markdown"/>
+        </topicref>
+    </topicref>
+</map>

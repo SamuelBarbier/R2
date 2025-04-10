@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="conversion-de-récolte---haricots-et-pois"
+               path="Article/conversion.html"/>
+   <appContext helpID="configuration-de-la-plateforme" path="Article/plateformes.html"/>
+   <appContext helpID="battage" path="Article/battage.html"/>
+   <appContext helpID="configuration-du-régime-du-batteur" path="Article/regime.html"/>
+   <appContext helpID="remplacement-des-contre-batteurs-sectionnels"
+               path="Article/contre_batteur.html"/>
+   <appContext helpID="configuration-de-la-séparation" path="Article/separation.html"/>
+   <appContext helpID="configuration-du-caisson-de-nettoyage"
+               path="Article/caisson.html"/>
+   <appContext helpID="manutention-du-grain" path="Article/manutention.html"/>
+   <appContext helpID="configuration-pour-la-manutention" path="Article/residu.html"/>
+   <appContext helpID="éparpilleur-de-menues-pailles--régime-et-ailettes"
+               path="Article/eparpilleur.html"/>
+</map>
