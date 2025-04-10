@@ -84,7 +84,7 @@ Un écartement de contre-batteur allant jusqu'à 40 mm est possible dans des con
 
 La grille à otons universelle et la grille à grain universelle sont les plus couramment utilisées.
 
-![images/img18.jpg](images/img18.jpg)![images/img20.jpg](images/img20.jpg)
+![Grille à otons universelle](images/img18.jpg)![Grille à grain universelle](images/img20.jpg)
 
 Cela permettra de réduire l’endommagement de la paille et de réduire la charge du caisson. Dans les conditions sèches, le pignon à 770 tr/min du kit BXE10741 peut ensuite être utilisé pour les petites céréales.
 
@@ -92,13 +92,13 @@ Les diviseurs des vis d'alimentation doivent être réglés pour obtenir une ré
 
 Le relevage des tôles permet de réduire la quantité de matière à l'extérieur. 
 
-![images/img21.jpg](images/img21.jpg)
+![Diviseurs des vis d'alimentation](images/img21.jpg)
 
 Il est possible de poser une pré-grille à otons réglable pour empêcher l'accumulation de tiges dans la grille. Le résultat obtenue dépend des conditions.
 
 Attention : Ne pas utliser l'extension de pré-grille sur la récolte de tournesol. 
 
-![images/img23.jpg](images/img23.jpg)
+![Extension de pré-grille](images/img23.jpg)
 
 ## Réglage du caisson 
 
@@ -117,38 +117,38 @@ La pré-grille à otons réglable doit être réglée à 6 mm si elle est équip
 
 L'utilisation du système Active Terrain Adjustment est recommandée, même sur terrain légèrement vallonné, pour optimiser l'échantillon de trémie et gérer le volume d'otons.
 
-![images/img24.jpg](images/img24.jpg)
+![Caisson de nettoyage](images/img24.jpg)
 
 ## Transport du grain
 
 Les couvercles de vis transversale doivent être maintenus en position relevée pour la plupart des conditions de récolte.
 
-![images/img25.jpg](images/img25.jpg)
+![Couvercles de vis transversale](images/img25.jpg)
 
 Le déflecteur situé au niveau de la vis de remplissage de la trémie à grain est ajustable. Ce réglage permet de modifier la distribution du grain dans la trémie. Lorsque le déflecteur est positionné comme illustré, il dirige le chargement de la trémie à grain davantage vers la droite.
 
-![images/img26.jpg](images/img26.jpg)
+![Déflecteur](images/img26.jpg)
 
 ## Composants du système de résidus
 
 Les palettes incurvées doivent être installées sur un segment sur deux de l'épandeur à disques. Cette disposition assure une répartition uniforme des résidus.
 
-![images/img27.jpg](images/img27.jpg)
+![Palettes incurvées](images/img27.jpg)
 
 Le couvercle sous le tambour d'alimentation doit être retiré lors de la récolte de petites céréales pour éviter les enroulements.
 
-![images/img28.jpg](images/img28.jpg)
+![Couvercle sous le tambour d'alimentation](images/img28.jpg)
 
 Pour la configuration Premium, un ralentisseur de chute est disponible. Il améliore la forme des andains et favorise un séchage plus rapide de la paille.
 
-![images/img29.jpg](images/img29.jpg)
+![Ralentisseur de chute](images/img29.jpg)
 
 ## Réglages des résidus
 
 Réglez le régime du broyeur sur élevé. Enclenchez les contre-couteaux uniquement si nécessaire pour économiser l'énergie.
 
-![images/img30.jpg](images/img30.jpg)![images/img32.jpg](images/img32.jpg)
+![Régime du broyeur](images/img30.jpg)![Contre-couteaux](images/img32.jpg)
 
 Positionnez le déflecteur de rafles en position relevée pour les petites céréales. Pour optimiser la répartition des résidus, ajustez les ailettes du déflecteur arrière ou du volet de broyage.
 
-![images/img33.jpg](images/img33.jpg)![images/img35.jpg](images/img35.jpg)
+![Déflecteur de rafles](images/img33.jpg)![Réglage](images/img35.jpg)
