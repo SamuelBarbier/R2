@@ -1,7 +1,7 @@
 # Battage
 
 ||Série T|Série W|
-| :--------------- |:---------------:| -----:|
+| :--------------- |:---------------:| :-----:|
 |Plaque d'obturation de la trape à pierre|Non|Non|
 |Barre d'amorçage|Si nécessaire|Si nécessaire |
 |Contre-batteur|Court/mixte| Céréales à petits grains/mixte |

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="conversion-de-récolte-pour-séries-w-et-t---céréales-à-petits-grains"
+               path="Articles/Configurer_plateforme.html"/>
+   <appContext helpID="battage" path="Articles/Battage.html"/>
+   <appContext helpID="ebarber" path="Articles/ebarbage_difficile.html"/>
+   <appContext helpID="installer-les-contre-batteurs-sectionnels"
+               path="Articles/Installer_contre_batteur_sectionnels.html"/>
+   <appContext helpID="configuration-de-la-grille-de-séparation-pour-la-série-t"
+               path="Articles/Separation_serie_t.html"/>
+   <appContext helpID="configuration-de-la-grille-de-séparation-pour-la-série-t"
+               path="Articles/separation_serie_w.html"/>
+   <appContext helpID="manutention-du-grain" path="Articles/Manutention_grain.html"/>
+   <appContext helpID="configuration-et-changement-de-rapport-de-la-trémie-à-grain"
+               path="Articles/Configuration_tremie_grain.html"/>
+   <appContext helpID="nettoyage" path="Articles/Nettoyage.html"/>
+   <appContext helpID="gestion-des-résidus" path="Articles/Residus.html"/>
+</map>

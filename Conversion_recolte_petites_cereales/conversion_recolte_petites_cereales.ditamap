@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
+<map xml:lang="fr-FR">
     <title>Conversion de récolte : petites céréales</title>
-    <topicref href="sans_titre1.md" format="markdown"/>
+    <topicref href="Articles/Configurer_plateforme.md" format="markdown"/>
+    <topicref href="Articles/Battage.md" format="markdown"/>
+    <topicref href="Articles/ebarbage_difficile.md" format="markdown"/>
+    <topicref href="Articles/Installer_contre_batteur_sectionnels.md" format="markdown"/>
+    <topicref href="Articles/Separation_serie_t.md" format="markdown"/>
+    <topicref href="Articles/separation_serie_w.md" format="markdown"/>
+    <topicref href="Articles/Manutention_grain.md" format="markdown">
+        <topicref href="Articles/Configuration_tremie_grain.md" format="markdown"/>
+    </topicref>
+    <topicref href="Articles/Nettoyage.md" format="markdown"/>
+    <topicref href="Articles/Residus.md" format="markdown"/>
 </map>

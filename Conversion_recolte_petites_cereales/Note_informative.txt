@@ -1,0 +1,1 @@
+Pour la réécriture de ce document, j'ai choisi de garder la trame de présentation initiale tout en appliquant de principe de minimalisme. En effet, j'ai choisi de transformer le maximum de passages en procédure ou en liste à puce claires afin de guider au mieux l'utilisateur. Certains tableaux sont restés tel quel pour rendre plus facile la lecture des informations.
