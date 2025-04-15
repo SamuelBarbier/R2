@@ -24,6 +24,8 @@ La machine doit être équipée d'un entraînement de batteur à 2 vitesses.
 
 ![axe bas batteur](images/Image16.png)
 
+*Figure 3 - Vue de la face avant de l'axe bas du batteur*
+
 **Note :**
 * Récolte cassante : plage basse
 * Récolte verte : plage haute

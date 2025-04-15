@@ -11,6 +11,8 @@
 
 ![position du tambour et pignon](images/Image10_1.png)
 
+*Figure 1 - Position du tambour et du pignon*
+
 | Repère                   | Description                                                                                      |
 |--------------------------|--------------------------------------------------------------------------------------------------|
 | 1                        | Position du tambour : leviers du côté gauche et droit vers l'arrière (position haute sur l'image)|
@@ -23,6 +25,8 @@ Cela permet le ramassage de la récolte sans pousser de la terre.
 Un exemple de réglage de l'angle du convoyeur est donné dans l'image ci-dessous.
 
 ![angle du convoyeur d'alimentation](images/Image8.png)
+
+*Figure 2 - Angle du convoyeur d'alimentation*
 
 **Note :** Vous pouvez ajuster l'angle à l'aide de la barre filetée sur le convoyeur d'alimentation.  
 Si vous devez modifier le réglage sur une autre unité de récolte, consultez le livret d'entretien correspondant.

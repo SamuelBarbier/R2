@@ -65,6 +65,8 @@
 
 ![battage Série T](images/Image12.png)
 
+*Figure 1 - Battage Série T*
+
 | Repère                   | Description      |
 |--------------------------|------------------|
 | 1                        | Tôles d'ébarbage |
@@ -134,6 +136,8 @@
 </table>
 
 ![battage Série W](images/Image13.png)
+
+*Figure 2 - Battage Série W*
 
 | Repère                   | Description                             |
 |--------------------------|-----------------------------------------|
