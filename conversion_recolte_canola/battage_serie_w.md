@@ -1,3 +1,0 @@
-# Battage - Série W
-
-Text

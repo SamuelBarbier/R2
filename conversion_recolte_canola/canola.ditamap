@@ -5,5 +5,8 @@
     <topicref href="configuration_plateforme.md" format="markdown"/>
     <topicref href="convoyeur_alimentation.md" format="markdown"/>
     <topicref href="battage_serie_t.md" format="markdown"/>
-    <topicref href="battage_serie_w.md" format="markdown"/>
+    <topicref href="plage_de_regime_batteur.md" format="markdown"/>
+    <topicref href="contre_batteurs_sectionnels.md" format="markdown"/>
+    <topicref href="separation.md" format="markdown"/>
+    <topicref href="caisson_nettoyage.md" format="markdown"/>
 </map>
