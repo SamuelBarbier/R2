@@ -1,5 +1,7 @@
 # Configuration de la plateforme (sauts de ligne à revoir)
 
+## Réglages
+
 <div class="alert-warning">
   <strong>⚠️ Important :</strong>
 </div>
