@@ -1,4 +1,4 @@
-# Configuration de la plateforme (sauts de ligne à revoir)
+# Configuration de la plateforme
 
 ## Réglages
 

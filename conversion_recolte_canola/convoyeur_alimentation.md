@@ -1,4 +1,4 @@
-# Convoyeur d'alimentation (tableaux + sauts de ligne)
+# Convoyeur d'alimentation
 
 ## Caractéristiques du convoyeur d'alimentation
 

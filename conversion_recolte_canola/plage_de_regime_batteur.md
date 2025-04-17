@@ -1,5 +1,4 @@
-# Plage de régime du batteur : positions des axes (sauts de ligne)
-
+# Plage de régime du batteur : positions des axes
 ## Prérequis
 
 La machine doit être équipée d'un entraînement de batteur à 2 vitesses.
