@@ -2,8 +2,13 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Série S Colza</title>
-    <topicref href="serie_s_colza.md" format="markdown">
-        <topicref href="03_preface.md" format="markdown"/>
-        <topicref href="composants_caisson_nettoyage.md" format="markdown"/>
-    </topicref>
+
+    <topicref href="03_preface.md" format="markdown"/>
+    <topicref href="composants_caisson_nettoyage.md" format="markdown"/>
+    <topicref href="reglages_caisson_nettoyage.md" format="markdown"/>
+    <topicref href="transport_grain.md" format="markdown"/>
+    <topicref href="composants_systeme_residus.md" format="markdown"/>
+    <topicref href="reglage_systeme_residus.md" format="markdown"/>
+    <topicref href="conseils_astuces.md" format="markdown"/>
+    <topicref href="outils_liens.md" format="markdown"/>
 </map>
