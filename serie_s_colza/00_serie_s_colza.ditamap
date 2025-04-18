@@ -2,6 +2,8 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Série S Colza</title>
-    <topicref href="03_preface.md" format="markdown"/>
-    <topicref href="composants_caisson_nettoyage.md" format="markdown"/>
+    <topicref href="serie_s_colza.md" format="markdown">
+        <topicref href="03_preface.md" format="markdown"/>
+        <topicref href="composants_caisson_nettoyage.md" format="markdown"/>
+    </topicref>
 </map>

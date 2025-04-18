@@ -2,6 +2,9 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Series S - Tournesol</title>
-    <topicref href="serie_s_tounesol_preface.md" format="markdown"/>
-    <topicref href="serie_s_tournesol_reglage_et_inspection.md" format="markdown"/>
+    <topicref href="serie_s_tournesol.md" format="markdown">
+        <topicref href="serie_s_tounesol_preface.md" format="markdown"/>
+        <topicref href="serie_s_tournesol_reglage_et_inspection.md" format="markdown"/>
+        <topicref href="telecharger_appli_GoHarvest.md" format="markdown"/>
+    </topicref>
 </map>

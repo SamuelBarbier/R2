@@ -14,6 +14,46 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
+                                    <String>../../../Desktop/R2/series_s.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/dita/ditamap.framework/DITA Map/DITA Map WebHelp Responsive</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>series_s.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>DITA Map WebHelp Responsive - Copie (2)</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
                                     <String>conversion_recolte_pois/pois.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -59,26 +99,6 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>6/dita/ditamap.framework/DITA Map/DITA Map WebHelp Responsive</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>series_s.ditamap</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>DITA Map WebHelp Responsive - Copie (2)</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -165,9 +185,6 @@
                                     <null/>
                                 </field>
                                 <field name="lastCustomSkinCssPath">
-                                    <null/>
-                                </field>
-                                <field name="webhelpResponsiveTemplate">
                                     <null/>
                                 </field>
                                 <field name="publishingTemplateDataPO">
@@ -444,9 +461,6 @@
                                     <null/>
                                 </field>
                                 <field name="lastCustomSkinCssPath">
-                                    <null/>
-                                </field>
-                                <field name="webhelpResponsiveTemplate">
                                     <null/>
                                 </field>
                                 <field name="publishingTemplateDataPO">
