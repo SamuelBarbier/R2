@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="cultures-prises-en-charge"
+               path="topics/culturers_prise_charge.html"/>
+   <appContext helpID="configuration-requise" path="topics/configuration_requise.html"/>
+   <appContext helpID="fonctionnement" path="topics/fonctionnement.html"/>
+   <appContext helpID="kit-de-rééquipement" path="topics/kits_de_reequipement.html"/>
+   <appContext helpID="quest-ce-quune-échantillon-activeyield-"
+               path="topics/charge_activeyield.html"/>
+   <appContext helpID="calcul-du-poids-de-la-charge"
+               path="topics/calcul_du_poids_charge.html"/>
+   <appContext helpID="mise-à-zéro-automatique-des-cellules-de-charge"
+               path="topics/mise_zero_automatique_des_cellules_de_charge.html"/>
+   <appContext helpID="fonctionnement-dactiveyield"
+               path="topics/fonctionnement_activeyield.html"/>
+   <appContext helpID="facteur-de-correction-du-rendement"
+               path="topics/facteur_correction_du_rendement.html"/>
+   <appContext helpID="s600---2630" path="topics/S600.html"/>
+   <appContext helpID="cultures-non-prises-en-charge--s600---console-2630"
+               path="topics/cultures_non_prises_en_charge_s600_console2630.html"/>
+   <appContext helpID="activation-dactiveyield-s600---console-2630"
+               path="topics/activation_activeyield_s600_console2630.html"/>
+   <appContext helpID="effacement-des-poids-de-calibrage--s600---console-2630"
+               path="topics/effacement_des_poids_de_calibrage_S600_Console_2630.html"/>
+   <appContext helpID="facteur-de-correction-dactiveyield--s600---2630"
+               path="topics/facteur_correction_activeyield_s600_2630.html"/>
+   <appContext helpID="s700---4600" path="topics/s700.html"/>
+   <appContext helpID="cultures-non-prises-en-charge---s700---console-4600"
+               path="topics/cultures_non_prises_en_charge_s700_console4600.html"/>
+   <appContext helpID="activation-dactiveyield-s700---console-4600"
+               path="topics/activation_actionyield_s700_console4600.html"/>
+   <appContext helpID="effacement-des-poids-de-calibrage--s700---console-4600"
+               path="topics/effacement_des%20poids_de_calibrage_S700_Console_4600.html"/>
+   <appContext helpID="facteur-de-correction-dactiveyield--s700---4600"
+               path="topics/facteur_correction_activeyield_s700_4600.html"/>
+   <appContext helpID="charges-échantillions-acceptées"
+               path="topics/charges_echantillons_acceptées.html"/>
+   <appContext helpID="charges-refusées" path="topics/charges_refusées.html"/>
+   <appContext helpID="précision-du-rendement"
+               path="topics/precision_du_rendement.html"/>
+   <appContext helpID="causes-pouvant-entrainées-un-manque-de-précision-du-rendement"
+               path="topics/causes_pouvant_entrainées_manque_précision_du_rendement.html"/>
+</map>
