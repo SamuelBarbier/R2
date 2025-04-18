@@ -2,6 +2,10 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Serie S - Orge</title>
-    <topicref href="serie_s_orge_preface.md" format="markdown"/>
-    <topicref href="serie_s_orge_conseils_astuces.md" format="markdown"/>
+    <topicref href="serie_s_orge.md" format="markdown">
+        <topicref href="serie_s_orge_preface.md" format="markdown"/>
+        <topicref href="serie_s_orge_conseils_astuces.md" format="markdown"/>
+        <topicref href="serie_s_orge_.md" format="markdown"/>
+        <topicref href="serie_s_orge_reglages_inspection.md" format="markdown"/>
+    </topicref>
 </map>
