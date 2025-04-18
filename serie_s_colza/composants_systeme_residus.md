@@ -1,7 +1,7 @@
 # Composants du système de résidus
 
 <p align="center">
-  <img src="images/composants_systeme_residus.png" alt="Palettes incurvées, couvercle du tambour d'alimentation et ralentisseur de chute." width="400"/>
+  <img src="images/composants_systeme_residus.png" alt="Palettes incurvées, Couvercle du tambour d'alimentation et Ralentisseur de chute." width="400"/>
 </p>
 
 |Image|Composant|Utilisation|

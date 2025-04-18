@@ -1,9 +1,9 @@
-# JENN Composants du caisson de nettoyage
+# Composants du caisson de nettoyage
 
-## Tableau 1
+## Grilles
 
 <p align="center">
-  <img src="images/composants_caisson_img1.png" alt="Différentes grilles du caisson de nettoyage" width="400"/>
+  <img src="images/composants_caisson_img1.png" alt="Grille à otons universelle, Grille à otons haute performance et Grille à grain universelle." width="400"/>
 </p>
 
 
@@ -18,21 +18,18 @@ La grille à otons universelle et la grille à grain universelle sont la configu
 
 Pour obtenir obtenir un échantillon de trémie plus propre et une réduction de la charge d'otons (lorsque les performances sont limitées par le caisson de nettoyage), utilisez la grille à otons haute performance.
 
-## Tableau 2
+## Diviseurs des vis
 
 <p align="center">
-  <img src="images/composants_caisson_img2.png" alt="Diviseurs, pré-grille et extension de pré-grille." width="400"/>
+  <img src="images/composants_caisson_img2.png" alt="Diviseurs, Pré-grille et Extension de pré-grille." width="400"/>
 </p>
 
+<div class="note">
+  <strong>Note : </strong>L'extention de pré-grille ne doit pas être utilisée pour le colza.
+</div>
 
 |Image|Composant|Utilisation|
 |---|---|---|
 |1|Diviseurs des vis d'alimentation | À règler pour obtenir une répartition uniforme du caisson de nettoyage.|
 |2|Pré-grille à otons réglable | Récolte colza et tournesol : Empêche l'accumulation de tiges dans la grille.|
 |3|Extension de pré-grille à otons (pas livrée avec les modèles ZX | Récolte tournesol et orge.|
-
-
-<div class="note">
-  <strong>Note : </strong>L'extention de pré-grille ne doit pas être utilisée pour le colza.
-</div>
-

@@ -1,4 +1,4 @@
-# Réglage du caisson de nettoyage
+# Réglages du caisson de nettoyage
 
 <p align="center">
   <img src="images/reglages_caisson_nettoyage.png" alt="Caisson de nettoyage." width="400"/>
