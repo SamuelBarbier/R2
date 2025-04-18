@@ -1,9 +1,9 @@
-# Composants du caisson de nettoyage
+# JENN Composants du caisson de nettoyage
 
 ## Tableau 1
 
 <p align="center">
-  <img src="images/composants_caisson_img1.png" alt="Différentes grilles du caisson de nettoyage" width="200"/>
+  <img src="images/composants_caisson_img1.png" alt="Différentes grilles du caisson de nettoyage" width="400"/>
 </p>
 
 
@@ -21,11 +21,11 @@ Pour obtenir obtenir un échantillon de trémie plus propre et une réduction de
 ## Tableau 2
 
 <p align="center">
-  <img src="images/composants_caisson_img2.png" alt="Diviseurs, pré-grille et extension de pré-grille." width="200"/>
+  <img src="images/composants_caisson_img2.png" alt="Diviseurs, pré-grille et extension de pré-grille." width="400"/>
 </p>
 
 
-| Image  |  Description | Information  |
+|Image|Composant|Utilisation|
 |---|---|---|
 |1|Diviseurs des vis d'alimentation | À règler pour obtenir une répartition uniforme du caisson de nettoyage.|
 |2|Pré-grille à otons réglable | Récolte colza et tournesol : Empêche l'accumulation de tiges dans la grille.|
