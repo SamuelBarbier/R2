@@ -9,7 +9,7 @@
 | Racleur de l’arbre supérieur      | Non                             |
 | Portes perforées                  | Non                             |
 
-![position du tambour et pignon](images/Image10_1.png)
+<img src="images/Image10_1.png" alt="position du tambour et pignon" width="400" height="250">
 
 *Figure 1 - Position du tambour et du pignon*
 
@@ -24,7 +24,7 @@ Réglez l’angle du convoyeur d’alimentation pour qu’il soit à plat ou lé
 Cela permet le ramassage de la récolte sans pousser de la terre.  
 Un exemple de réglage de l'angle du convoyeur est donné dans l'image ci-dessous.
 
-![angle du convoyeur d'alimentation](images/Image8.png)
+<img src="images/Image8.png" alt="angle du convoyeur d'alimentation" width="300" height="250">
 
 *Figure 2 - Angle du convoyeur d'alimentation*
 

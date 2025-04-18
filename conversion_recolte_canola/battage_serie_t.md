@@ -63,7 +63,7 @@
   </tr>
 </table>
 
-![battage Série T](images/Image12.png)
+<img src="images/Image12.png" alt="battage Série T" width="350" height="250">
 
 *Figure 1 - Battage Série T*
 
@@ -135,7 +135,7 @@
   </tr>
 </table>
 
-![battage Série W](images/Image13.png)
+<img src="images/Image13.png" alt="battage Série W" width="350" height="250">
 
 *Figure 2 - Battage Série W*
 

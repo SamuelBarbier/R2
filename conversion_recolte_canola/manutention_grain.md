@@ -11,10 +11,10 @@
 | Limiteur de couple                                | Pas obligatoire |
 | Changement des vitesses de la trémie à grain      | Non - standard  |
 
-![manutention du grain](images/Image36.png)
+<img src="images/Image36.png" alt="manutention du grain" width="250" height="250">
 
 *Figure 1 - Manutention du grain*
 
-![schéma de la position du couvercle de la vis transversale](images/Image37.jpg)
+<img src="images/Image37.jpg" alt="schéma de la position du couvercle de la vis transversale" width="400" height="250">
 
 *Schéma 1 - Position du couvercle de la vis transversale*

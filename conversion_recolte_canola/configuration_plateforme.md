@@ -8,14 +8,14 @@
 
 * En fonction de la culture, réglez la vis d'alimentation et le doigt de vis sans fin, représentés dans l'image ci-dessous.
 
-![vis d'alimentation et doigt de vis sans fin](images/Image3.jpg)
+<img src="images/Image3.jpg" alt="vis d'alimentation et doigt de vis sans fin" width="200" height="250">
 
 *Figure 1 - Vis d'alimentation et doigt de vis sans fin*
 
 * Vérifiez la distance entre la vis d'entrée et les racleurs.  
 La vis d'entrée et les racleurs sont encadrés en jaune dans l'image suivante :
 
-![distance entre la vis d'entrée et les racleurs](images/Image4.jpg)
+<img src="images/Image4.jpg" alt="distance entre la vis d'entrée et les racleurs" width="200" height="250">
 
 *Figure 2 - Distance entre la vis d'entrée et les racleurs* 
 
@@ -37,7 +37,7 @@ En cas de problème d'alimentation avec du colza à haut rendement :
 
 Le schéma suivant illustre le réglage de la vis d'alimentation :
 
-![réglage de la vis d'alimentation](images/Image7.png)
+<img src="images/Image7.png" alt="réglage de la vis d'alimentation" width="200" height="250">
 
 *Figure 3 - Réglage de la vis d'alimentation*
 
@@ -48,7 +48,7 @@ Réglez la longueur de table de la 700X en fonction de la hauteur de la culture 
 Réglez la longueur de la table de façon à ce que la tête des plants tombe entre les spires de la vis d'alimentation.  
 Prenez comme exemple l'illustration ci-dessous.
 
-![réglage de la longueur de la table](images/Image9.jpg)
+<img src="images/Image9.jpg" alt="réglage de la longueur de la table" width="300" height="250">
 
 *Figure 4 - Réglage de la longueur de la table*
 

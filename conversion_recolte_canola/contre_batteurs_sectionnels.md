@@ -9,18 +9,18 @@
  5. Remplacez les sections du contre-batteur.
  6. Fermez le mécanisme de verrouillage.
 
-![schéma d'un contre-batteur sectionnel](images/Image20.png)
+<img src="images/Image20.png" alt="schéma d'un contre-batteur sectionnel" width="400" height="250">
 
 *Schéma 1 - Contre-batteur sectionnel*
 
 Dans des conditions sèches et cassantes, des sections pour petits grains peuvent aider à réduire la charge du caisson de nettoyage.
 
-![section pour petits grains](images/Image18.jpg)
+<img src="images/Image18.jpg" alt="section pour petits grains" width="300" height="250">
 
 *Figure 1 - Section pour petits grains*
 
 Dans des conditions humides, un contre-batteur mixte améliore la séparation.
 
-![section mixte](images/Image19.jpg)
+<img src="images/Image19.jpg" alt="section mixte" width="300" height="250">
 
 *Figure 2 - Section mixte*

@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-![caisson de nettoyage](images/Image31.png)
+<img src="images/Image31.png" alt="caisson de nettoyage" width="500" height="250">
 
 *Figure 1 - Caisson de nettoyage*
 

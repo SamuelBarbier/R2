@@ -10,6 +10,6 @@
 | Vanne de vitesse de l'éparpilleur de menues pailles (selon l'équipement) | Rapide        |                                          |
 | Détecteur de rafles                                                      | Non           |                                          |
 
-![régime du broyeur](images/Image39.jpg)
+<img src="images/Image39.jpg" alt="régime du broyeur" width="500" height="250">
 
 *Schéma 1 - Régime du broyeur*

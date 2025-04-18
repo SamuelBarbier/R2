@@ -8,11 +8,11 @@ La machine doit être équipée d'un entraînement de batteur à 2 vitesses.
 * Axe de verrouillage intérieur engagé
 * Poulie extérieure libre
 
-![vue face avant axe haut batteur](images/Image15.png)
+<img src="images/Image15.png" alt="vue face avant axe haut batteur" width="300" height="250">
 
 *Figure 1 - Vue de la face avant de l'axe haut du batteur*
 
-![vue face arrière axe haut batteur](images/Image17.png)
+<img src="images/Image17.png" alt="vue face arrière axe haut batteur" width="200" height="250">
 
 *Figure 2 - Vue de la face arrière de l'axe haut du batteur*
 
@@ -21,7 +21,7 @@ La machine doit être équipée d'un entraînement de batteur à 2 vitesses.
 * Axe de verrouillage intérieur libre
 * Poulie extérieure verrouillée
 
-![axe bas batteur](images/Image16.png)
+<img src="images/Image16.png" alt="axe bas batteur" width="300" height="250">
 
 *Figure 3 - Vue de la face avant de l'axe bas du batteur*
 
