@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="avertissement" path="avertissement.html"/>
+   <appContext helpID="configuration-de-la-plateforme"
+               path="configuration_plateforme.html"/>
+   <appContext helpID="convoyeur-dalimentation" path="convoyeur_alimentation.html"/>
+   <appContext helpID="battage" path="battage_serie_t.html"/>
+   <appContext helpID="plage-de-régime-du-batteur--positions-des-axes"
+               path="plage_de_regime_batteur.html"/>
+   <appContext helpID="contre-batteurs-sectionnels"
+               path="contre_batteurs_sectionnels.html"/>
+   <appContext helpID="séparation" path="separation.html"/>
+   <appContext helpID="caisson-de-nettoyage" path="caisson_nettoyage.html"/>
+   <appContext helpID="type-de-caisson-de-nettoyage---grille-à-ôtons--grille-à-grain"
+               path="type_caisson_nettoyage.html"/>
+   <appContext helpID="manutention-du-grain" path="manutention_grain.html"/>
+   <appContext helpID="résidus" path="residus.html"/>
+   <appContext helpID="éparpilleur-de-menues-pailles--régime-et-ailettes"
+               path="eparpilleur_menues_pailles.html"/>
+</map>
