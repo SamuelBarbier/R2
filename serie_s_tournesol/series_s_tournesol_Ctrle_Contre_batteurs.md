@@ -1,4 +1,4 @@
-# Contre-batteurs
+# Régler les contre-batteurs
 En cas de conditions de battage difficiles, placez 3 contre-batteurs à grand fil.
 
 ![images/img7.jpg](images/img7.jpg)

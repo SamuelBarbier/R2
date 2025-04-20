@@ -1,4 +1,4 @@
-# Vitesse du tambour d‘alimentation
+# Régler la vitesse du tambour d‘alimentation
 Basse (550 tr/min) pour les conditions normales et difficiles. 
 
 Dans des conditions sèches et cassantes, la vitesse peut être abaissée à 320 tr/min en installant le kit BXE10741 (320 tr/min/770 tr/min). 

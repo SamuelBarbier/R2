@@ -1,4 +1,4 @@
-# Réglages des résidus
+# Régler les résidus
 Réglez le régime du broyeur sur élevé. Enclenchez les contre-couteaux uniquement si nécessaire pour économiser l'énergie.
 
 ![Régime du broyeur](images/img30.jpg)![Contre-couteaux](images/img32.jpg)

@@ -1,4 +1,4 @@
-# Hauteur et vitesse de la chaîne du tambour du convoyeur d'alimentation
+# Régler la hauteur et la vitesse de la chaîne du tambour du convoyeur d'alimentation
 - Position du tambour avant : Poignée vers le haut pour les tournesols
 - Vitesse du convoyeur d'alimentation : 26 dents pour les tournesols.
 

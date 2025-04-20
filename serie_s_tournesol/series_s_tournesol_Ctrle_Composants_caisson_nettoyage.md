@@ -1,4 +1,4 @@
-# Composants du caisson de nettoyage
+# Régler les composants du caisson de nettoyage
 La grille à otons universelle et la grille à grain universelle sont les plus couramment utilisées.
 
 ![Grille à otons universelle](images/img18.jpg)![Grille à grain universelle](images/img20.jpg)

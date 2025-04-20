@@ -1,10 +1,10 @@
-# Réglage du caisson
-|  Élément | Réglage standard  | Réglage haute performance  |
-|---|---|---|
-|Ouverture de la grille à otons | 14 mm|16 mm|
-|Extension de la grille à otons| 0 mm|  0mm |
-|Ouverture de la grille à grain |5 mm   |6 mm   |
-|Régime du ventilateur |780 tr/min   |Optimiser et augmenter  |
+# Régler le caisson
+| Élément                        | Réglage standard | Réglage haute performance |
+| ------------------------------ | ---------------- | ------------------------- |
+| Ouverture de la grille à otons | 14 mm            | 16 mm                     |
+| Extension de la grille à otons | 0 mm             | 0mm                       |
+| Ouverture de la grille à grain | 5 mm             | 6 mm                      |
+| Régime du ventilateur          | 780 tr/min       | Optimiser et augmenter    |
 
 Les réglages haute performance s'appliquent lors de l'utilisation d'une grille à otons ou à grain hautes performances.
 

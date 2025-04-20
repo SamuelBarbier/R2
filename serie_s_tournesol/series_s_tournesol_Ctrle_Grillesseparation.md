@@ -1,4 +1,4 @@
-# Grilles de séparation
+# Régler les grilles de séparation
 Assurez vous que les entretoises de la grille de séparation nº 1 se trouvent sur le rail pour le tournesol. Cela permettra d’avoir les grilles en position haute, afin d’assurer un flux constant de récolte via les organes de battage.
 
 ![images/img11.jpg](images/img11.jpg)

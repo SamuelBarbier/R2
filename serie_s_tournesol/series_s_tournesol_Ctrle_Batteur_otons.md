@@ -1,4 +1,4 @@
-# Batteur d'otons et déflecteurs supérieurs réglables
+# Régler les batteurs d'otons et déflecteurs supérieurs réglables
 Les déflecteurs supérieurs du rotor doivent être en position standard.
 
 ![images/img13.jpg](images/img13.jpg)

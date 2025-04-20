@@ -1,4 +1,4 @@
-# Composants du système de résidus
+# Régler les composants du système de résidus
 Les palettes incurvées doivent être installées sur un segment sur deux de l'épandeur à disques. Cette disposition assure une répartition uniforme des résidus.
 
 ![Palettes incurvées](images/img27.jpg)

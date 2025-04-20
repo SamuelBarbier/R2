@@ -1,4 +1,4 @@
-# Transport du grain
+# Régler le transport du grain
 Les couvercles de vis transversale doivent être maintenus en position relevée pour la plupart des conditions de récolte.
 
 ![Couvercles de vis transversale](images/img25.jpg)
