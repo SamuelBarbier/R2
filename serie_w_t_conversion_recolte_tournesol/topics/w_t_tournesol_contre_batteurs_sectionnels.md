@@ -9,3 +9,6 @@ Pour le tournesol utiliser des inserts de contre-batteur à barres rondes. Dans 
 4. Ouvrir le mécanisme de verrouillage du contre-batteur sectionnel
 5. Remplacer les sections du contre-batteur
 6. Fermer le mécanisme de verrouillage
+![../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-20%20%C3%A0%2011.51.00.png](../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-20%20%C3%A0%2011.51.00.png)
+![../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-20%20%C3%A0%2011.51.08.png](../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-20%20%C3%A0%2011.51.08.png)
+![../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-20%20%C3%A0%2011.51.17.png](../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-20%20%C3%A0%2011.51.17.png)
