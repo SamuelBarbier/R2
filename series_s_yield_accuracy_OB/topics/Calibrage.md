@@ -4,10 +4,12 @@ Calibrer votre système
 ### Accéder aux procédures de calibrage
 
 1. Accédez à l'application mobile ***GoHarvest***.
+![Icone_App_GoHarvest](../images/com.app.goharvest.jpg)
 2. Allez dans **Menu**.
+![App_GoHarvest_Menu](../images/com.app.goharvest_menu.jpg)
 3. Sélectionnez le menu **Vidéos**.
 4. Faites défiler les sélections pour trouver la vidéo “Calibrage du rendement”.
-   
+   ![Videos_GoHarvest](..//images/com.app.goharvest_calibration.jpg)
     La video vous guidera vers les procédures de calibrages. 
 
 ### Types de calibrage

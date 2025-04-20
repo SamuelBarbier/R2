@@ -4,12 +4,14 @@ Si la valeur d'humidité est toujours égale à zéro ou si la valeur ne change 
 
 Pour régler le capteur de proximité :
 1. Retirez les deux écrous fixant le couvercle du carter. 
+![Ecrous_Carter](../images/s_carter_ecrous.jpg)
 
 2. Localisez le capteur de proximité. 
+![Localisation_Capteur_Proximite](../images/s_loc_capteur_proximite.jpg)
 
 3. Enclenchez la clé de contact.
-
-    >[!warning] 
+![Cle_Contact](../images/s_cle_contact.jpg)
+    >[!important] 
     >Si un joint d'étanchéité recouvre cette vis de réglage, **arrêtez à cette étape**. Aucun réglage n'est requis. 
 
 4. En l'absence de joint d'étanchéité, utilisez un petit tournevis pour tourner la vis de réglage **dans le sens antihoraire** jusqu'à ce qu'elle tourne librement. 
