@@ -2,5 +2,16 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>map_guide_nettoyage_WandT</title>
-    <topicref href="Topic/guide_nettoyage_moissonneuses_W_and_T.md" format="markdown"/>
+    <topicref href="Topic/guide_nettoyage_moissonneuses_W_and_T.md" format="markdown">
+        <topicref href="Topic/entretien_et_nettoyage.md" format="markdown">
+            <topicref href="Topic/entretien_v%C3%A9hicule.md" format="markdown"/>
+            <topicref href="Topic/nettoyage_v%C3%A9hicule.md" format="markdown"/>
+        </topicref>
+        <topicref href="Topic/schema_et_tableau_moissonneuses.md" format="markdown">
+            <topicref href="Topic/vue_arriere_droite.md" format="markdown"/>
+            <topicref href="Topic/vue_avant_droite.md" format="markdown"/>
+            <topicref href="Topic/vue_avant_gauche.md" format="markdown"/>
+            <topicref href="Topic/vue_arriere_gauche.md" format="markdown"/>
+        </topicref>
+    </topicref>
 </map>
