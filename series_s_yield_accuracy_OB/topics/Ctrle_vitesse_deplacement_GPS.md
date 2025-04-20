@@ -8,4 +8,4 @@ Pour contrôler la vitesse de déplacement GPS:
    Assurez vous que la vitesse des roues est correcte, avec les bonnes unités (mph ou km/h).
 4. Si les valeurs des adresses AYM 114 et AYM 115 ne sont pas identiques, modifiez la sélection de la monte en pneus.
    
-Reportez-vous à [](Selection_monte_pneus.md) pour plus d'informations sur la sélection de la monte en pneus.
+Reportez-vous à [Contrôler la monte en pneus des roues](Ctrle_selection_monte_pneus) pour plus d'informations sur la sélection de la monte en pneus.

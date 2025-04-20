@@ -11,8 +11,7 @@ Pour régler le capteur de proximité :
 
 3. Enclenchez la clé de contact.
 ![Cle_Contact](../images/s_cle_contact.jpg)
-    >[!important] 
-    >Si un joint d'étanchéité recouvre cette vis de réglage, **arrêtez à cette étape**. Aucun réglage n'est requis. 
+    > Important : Si un joint d'étanchéité recouvre cette vis de réglage, **arrêtez à cette étape**. Aucun réglage n'est requis. 
 
 4. En l'absence de joint d'étanchéité, utilisez un petit tournevis pour tourner la vis de réglage **dans le sens antihoraire** jusqu'à ce qu'elle tourne librement. 
 
@@ -20,10 +19,3 @@ Pour régler le capteur de proximité :
 
 6. Tournez la vis de réglage vers l'arrière **dans le sens antihoraire** de **trois tours complets**.
 7. Conservez le réglage. 
-
- 
-
-
-         
-
-

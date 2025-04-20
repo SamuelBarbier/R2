@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Optimisation de la moissonneuse-batteuse série S et de l’unité de récolte -
+            “Prêt à la récolte” Précision du rendement</mainbooktitle>
+        <booktitlealt><image id="image_kvn_rmk_bfc" href="images/series_s_cover.jpg"
+            /></booktitlealt>
+    </booktitle>
+    <chapter href="topics/Principe_de_fonctionnement.md" format="markdown"/>
+    <chapter href="topics/Liste_controle_composants.md" format="markdown"/>
+    <chapter href="topics/Ctrle_chaine_elevateur_grain.md" format="markdown"/>
+    <chapter href="topics/Ctrle_interstice_palettes_elevatrices.md" format="markdown"/>
+    <chapter href="topics/Ctrle_vitesse_elevateur_grain.md" format="markdown"/>
+    <chapter href="topics/Ctrle_plaque_impact_capteur_debit_massique.md" format="markdown"/>
+    <chapter href="topics/Ctrle_largeur_unite_recolte.md" format="markdown"/>
+    <chapter href="topics/Ctrle_hauteur_enregistrement.md" format="markdown"/>
+    <chapter href="topics/Ctrle_type_unite_recolte.md" format="markdown"/>
+    <chapter href="topics/Ctrle_unites_rendement.md" format="markdown"/>
+    <chapter href="topics/Ctrle_vitesse_des_roues.md" format="markdown"/>
+    <chapter href="topics/Ctrle_selection_monte_pneus.md" format="markdown"/>
+    <chapter href="topics/Ctrle_vitesse_deplacement_GPS.md" format="markdown"/>
+    <chapter href="topics/Nett_capteur_humidite.md" format="markdown"/>
+    <chapter href="topics/Nett_capteur_proximit%C3%A9.md" format="markdown"/>
+    <chapter href="topics/Rglg_capteur_proximit%C3%A9.md" format="markdown"/>
+    <chapter href="topics/Ctrle_faisceau_connecteur_electriques.md" format="markdown"/>
+    <chapter href="topics/Calibrage.md" format="markdown"/>
+    <chapter href="topics/Pannes_problemes_courants.md" format="markdown"/>
+</bookmap>

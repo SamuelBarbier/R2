@@ -16,8 +16,7 @@ Calibrer votre système
 Le calibrage permet au système de rester précis et d'assurer la régularité du grain. 
 Effectuez un calibrage multipoint au moins une fois par récolte au début de chaque saison.
 
-> [!important]
-> Récoltez une trémie pleine pour chaque charge de calibrage.
+> Important : Récoltez une trémie pleine pour chaque charge de calibrage.
 
 
 | Type  | Mode de calibrage| Usage|
@@ -26,5 +25,4 @@ Effectuez un calibrage multipoint au moins une fois par récolte au début de ch
 | Calibrage à point unique  | 1 charge de calibrage récoltée à une vitesse de déplacement fixe           |   Déconseillé. Utilisez ce mode de calibrage lors des contrôles de précision, lorsque les conditions de récolte évoluent. |
 
 
-> [!important]
-> Si vous ne réalisez pas de calibrage, le système utilise une valeur de calibrage interne définie qui n'est pas adaptée à vos conditions de récolte. La précision diminuera avec l'usure des composants de la moissonneuse-batteuse.
+> Attention : Si vous ne réalisez pas de calibrage, le système utilise une valeur de calibrage interne définie qui n'est pas adaptée à vos conditions de récolte. La précision diminuera avec l'usure des composants de la moissonneuse-batteuse.
