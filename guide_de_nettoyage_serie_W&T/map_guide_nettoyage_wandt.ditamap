@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>map_guide_nettoyage_WandT</title>
+    <title>Série W &amp; T - Guide de nettoyage</title>
     <topicref href="Topic/guide_nettoyage_moissonneuses_W_and_T.md" format="markdown">
         <topicref href="Topic/entretien_et_nettoyage.md" format="markdown">
             <topicref href="Topic/entretien_v%C3%A9hicule.md" format="markdown"/>
