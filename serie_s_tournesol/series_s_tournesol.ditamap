@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
-<bookmap>
-    <booktitle>
-        <mainbooktitle>Optimisation de la moissonneuse-batteuse série S - “Prêt à la récolte” pour
-            les tournesols</mainbooktitle>
-    </booktitle>
-    <chapter href="serie_s_tounesol_preface.md" format="markdown"/>
-    <chapter href="series_s_tournesol_Ctrle_Hauteur_vitesse_convoyeur_alimentation.md"
-        format="markdown"/>
-    <chapter href="series_s_tournesol_Ctrle_Vitesse_tambour_alimentation.md" format="markdown"/>
-    <chapter href="series_s_tournesol_Ctrle_Contre_batteurs.md" format="markdown"/>
-    <chapter href="series_s_tournesol_Ctrle_Plaques_obturation_batteur.md" format="markdown"/>
-    <chapter href="series_s_tournesol_Ctrle_Grillesseparation.md" format="markdown"/>
-    <chapter href="series_s_tournesol_Ctrle_Batteur_otons.md" format="markdown"/>
-    <chapter href="series_s_tournesol_Rglg_Reglages_organes_battage.md" format="markdown"/>
-    <chapter href="series_s_tournesol_Ctrle_Composants_caisson_nettoyage.md" format="markdown"/>
-    <chapter href="series_s_tournesol_Rglg_Reglage_caisson.md" format="markdown"/>
-    <chapter href="series_s_tournesol_Ctrle_Transport_grain.md" format="markdown"/>
-    <chapter href="series_s_tournesol_Ctrle_Composants_systeme_residus.md" format="markdown"/>
-    <chapter href="series_s_tournesol_Rglg_Reglages_residus.md" format="markdown"/>
-    <chapter href="series_s_tournesol_Problemes_pannes_courantes.md" format="markdown"/>
-    <chapter href="En_savoir_plus.md" format="markdown"/>
-</bookmap>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+        <title>Série S - Tournesols</title>
+    <topicref href="serie_s_tournesol.md" format="markdown">
+        <topicref href="serie_s_tounesol_preface.md" format="markdown"/>
+        <topicref href="series_s_tournesol_Ctrle_Hauteur_vitesse_convoyeur_alimentation.md"
+            format="markdown"/>
+        <topicref href="series_s_tournesol_Ctrle_Vitesse_tambour_alimentation.md" format="markdown"/>
+        <topicref href="series_s_tournesol_Ctrle_Contre_batteurs.md" format="markdown"/>
+        <topicref href="series_s_tournesol_Ctrle_Plaques_obturation_batteur.md" format="markdown"/>
+        <topicref href="series_s_tournesol_Ctrle_Grillesseparation.md" format="markdown"/>
+        <topicref href="series_s_tournesol_Ctrle_Batteur_otons.md" format="markdown"/>
+        <topicref href="series_s_tournesol_Rglg_Reglages_organes_battage.md" format="markdown"/>
+        <topicref href="series_s_tournesol_Ctrle_Composants_caisson_nettoyage.md" format="markdown"/>
+        <topicref href="series_s_tournesol_Rglg_Reglage_caisson.md" format="markdown"/>
+        <topicref href="series_s_tournesol_Ctrle_Transport_grain.md" format="markdown"/>
+        <topicref href="series_s_tournesol_Ctrle_Composants_systeme_residus.md" format="markdown"/>
+        <topicref href="series_s_tournesol_Rglg_Reglages_residus.md" format="markdown"/>
+        <topicref href="series_s_tournesol_Problemes_pannes_courantes.md" format="markdown"/>
+        <topicref href="En_savoir_plus.md" format="markdown"/>
+    </topicref></map>
