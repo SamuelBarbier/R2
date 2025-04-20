@@ -24,6 +24,6 @@ déplacement à 50% et à 100%,. Cela est parfois nécessaire avec des rendement
 
 Si la précision du rendement ne s'améliore toujours pas avec ActiveYield désactivé, consulter le concessionnaire
 John Deere et se reporter au “Guide de préparation à la récolte pour la précision du rendement” de la
-moissonneuse-batteuse série S sur l'application GoHarvest ou sur le site [Johne Deere](https://www.deere.com/en/)
+moissonneuse-batteuse série S sur l'application GoHarvest ou sur le site [John Deere](https://www.deere.com/en/)
 
 [Quick Reference Guides]

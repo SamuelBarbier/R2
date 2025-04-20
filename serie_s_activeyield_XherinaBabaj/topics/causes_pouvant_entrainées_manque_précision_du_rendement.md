@@ -1,4 +1,4 @@
-# Causes pouvant entrainées un manque de précision du rendement
+# Causes pouvant entrainer un manque de précision du rendement
 
 * Humidité du grain > 20%.
     - Exemple: Un maïs humide qui ne s'écoule pas uniformément dans la trémie et qui s'accumule localement.

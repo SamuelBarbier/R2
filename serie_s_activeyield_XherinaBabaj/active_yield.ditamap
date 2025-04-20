@@ -1,33 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
-    <title>ActiveYield - Fonctionnement et réglage</title>
-    <topicref href="topics/culturers_prise_charge.md" format="markdown"/>
-    <topicref href="topics/configuration_requise.md" format="markdown"/>
-    <topicref href="topics/fonctionnement.md" format="markdown"/>
-    <topicref href="topics/kits_de_reequipement.md" format="markdown"/>
-    <topicref href="topics/charge_activeyield.md" format="markdown"/>
-    <topicref href="topics/calcul_du_poids_charge.md" format="markdown"/>
-    <topicref href="topics/mise_zero_automatique_des_cellules_de_charge.md" format="markdown"/>
-    <topicref href="topics/fonctionnement_activeyield.md" format="markdown"/>
-    <topicref href="topics/facteur_correction_du_rendement.md" format="markdown"/>
-    <topicref href="topics/S600.md" format="markdown">
-        <topicref href="topics/cultures_non_prises_en_charge_s600_console2630.md" format="markdown"/>
-        <topicref href="topics/activation_activeyield_s600_console2630.md" format="markdown"/>
-        <topicref href="topics/effacement_des_poids_de_calibrage_S600_Console_2630.md"
+    <title>Série S - Active Yield </title>
+    <topicref href="topics/activeyield_fonctionnement_reglage.md" format="markdown">
+        <topicref href="topics/culturers_prise_charge.md" format="markdown"/>
+        <topicref href="topics/configuration_requise.md" format="markdown"/>
+        <topicref href="topics/fonctionnement.md" format="markdown"/>
+        <topicref href="topics/kits_de_reequipement.md" format="markdown"/>
+        <topicref href="topics/charge_activeyield.md" format="markdown"/>
+        <topicref href="topics/calcul_du_poids_charge.md" format="markdown"/>
+        <topicref href="topics/mise_zero_automatique_des_cellules_de_charge.md" format="markdown"/>
+        <topicref href="topics/fonctionnement_activeyield.md" format="markdown"/>
+        <topicref href="topics/facteur_correction_du_rendement.md" format="markdown"/>
+        <topicref href="topics/S600.md" format="markdown">
+            <topicref href="topics/cultures_non_prises_en_charge_s600_console2630.md"
+                format="markdown"/>
+            <topicref href="topics/activation_activeyield_s600_console2630.md" format="markdown"/>
+            <topicref href="topics/effacement_des_poids_de_calibrage_S600_Console_2630.md"
+                format="markdown"/>
+            <topicref href="topics/facteur_correction_activeyield_s600_2630.md" format="markdown"/>
+        </topicref>
+        <topicref href="topics/s700.md" format="markdown">
+            <topicref href="topics/cultures_non_prises_en_charge_s700_console4600.md"
+                format="markdown"/>
+            <topicref href="topics/activation_actionyield_s700_console4600.md" format="markdown"/>
+            <topicref href="topics/effacement_des%20poids_de_calibrage_S700_Console_4600.md"
+                format="markdown"/>
+            <topicref href="topics/facteur_correction_activeyield_s700_4600.md" format="markdown"/>
+        </topicref>
+        <topicref href="topics/charges_echantillons_accept%C3%A9es.md" format="markdown"/>
+        <topicref href="topics/charges_refus%C3%A9es.md" format="markdown"/>
+        <topicref href="topics/precision_du_rendement.md" format="markdown"/>
+        <topicref href="topics/causes_pouvant_entrain%C3%A9es_manque_pr%C3%A9cision_du_rendement.md"
             format="markdown"/>
-        <topicref href="topics/facteur_correction_activeyield_s600_2630.md" format="markdown"/>
     </topicref>
-    <topicref href="topics/s700.md" format="markdown">
-        <topicref href="topics/cultures_non_prises_en_charge_s700_console4600.md" format="markdown"/>
-        <topicref href="topics/activation_actionyield_s700_console4600.md" format="markdown"/>
-        <topicref href="topics/effacement_des%20poids_de_calibrage_S700_Console_4600.md"
-            format="markdown"/>
-        <topicref href="topics/facteur_correction_activeyield_s700_4600.md" format="markdown"/>
-    </topicref>
-    <topicref href="topics/charges_echantillons_accept%C3%A9es.md" format="markdown"/>
-    <topicref href="topics/charges_refus%C3%A9es.md" format="markdown"/>
-    <topicref href="topics/precision_du_rendement.md" format="markdown"/>
-    <topicref href="topics/causes_pouvant_entrain%C3%A9es_manque_pr%C3%A9cision_du_rendement.md"
-        format="markdown"/>
 </map>

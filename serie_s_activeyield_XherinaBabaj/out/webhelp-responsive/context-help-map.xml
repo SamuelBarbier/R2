@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map>
+   <appContext helpID="active-yield---fonctionnement-et-réglage"
+               path="topics/activeyield_fonctionnement_reglage.html"/>
    <appContext helpID="cultures-prises-en-charge"
                path="topics/culturers_prise_charge.html"/>
    <appContext helpID="configuration-requise" path="topics/configuration_requise.html"/>
@@ -38,6 +40,6 @@
    <appContext helpID="charges-refusées" path="topics/charges_refusées.html"/>
    <appContext helpID="précision-du-rendement"
                path="topics/precision_du_rendement.html"/>
-   <appContext helpID="causes-pouvant-entrainées-un-manque-de-précision-du-rendement"
+   <appContext helpID="causes-pouvant-entrainer-un-manque-de-précision-du-rendement"
                path="topics/causes_pouvant_entrainées_manque_précision_du_rendement.html"/>
 </map>
