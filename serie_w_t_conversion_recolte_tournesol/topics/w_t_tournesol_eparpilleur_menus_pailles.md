@@ -1,6 +1,5 @@
 # Éparpilleur de menues pailles : régime et ailettes
 
-image
 
 **Réglage des ailettes**
 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="séries-w-et-t---conversion-de-récolte---tournesol"
+               path="topics/w_t_tournesol_page_de_garde.html"/>
+   <appContext helpID="configuration-de-la-plate-forme"
+               path="topics/w_t_tournesol_configuration_plateforme.html"/>
+   <appContext helpID="convoyeur-dalimentation"
+               path="topics/w_t_tournesol_convoyeur_alimentation.html"/>
+   <appContext helpID="battage--série-t"
+               path="topics/w_t_tournesol_battage_serie_t.html"/>
+   <appContext helpID="battage---série-w"
+               path="topics/w_t_tournesol_battage_serie_w.html"/>
+   <appContext helpID="plage-de-régime-du-batteur--positions-des-axes"
+               path="topics/w_t_tournesol_plage_regime_batteur.html"/>
+   <appContext helpID="contre-batteurs-sectionnels"
+               path="topics/w_t_tournesol_contre_batteurs_sectionnels.html"/>
+   <appContext helpID="séparation--série-t"
+               path="topics/w_t_tournesol_separation_serie_t.html"/>
+   <appContext helpID="séparation--série-w"
+               path="topics/w_t_tournesol_separation_serie_w.html"/>
+   <appContext helpID="caisson-de-nettoyage"
+               path="topics/w_t_tournesol_caisson_nettoyage.html"/>
+   <appContext helpID="type-de-caisson-de-nettoyage---grille-à-ôtons--grille-à-grain"
+               path="topics/w_t_tournesol_type_caisson_nettoyage.html"/>
+   <appContext helpID="manutention-du-grain"
+               path="topics/w_t_tournesol_manutention_grain.html"/>
+   <appContext helpID="cheminement-de-récolte-pour-le-tournesol"
+               path="topics/w_t_tournesol_cheminement_recolte_tournesol.html"/>
+   <appContext helpID="résidus" path="topics/w_t_tournesol_residus.html"/>
+   <appContext helpID="éparpilleur-de-menues-pailles--régime-et-ailettes"
+               path="topics/w_t_tournesol_eparpilleur_menus_pailles.html"/>
+   <appContext helpID="logo-john-deere" path="topics/w_t_tournesol_page_finale.html"/>
+</map>

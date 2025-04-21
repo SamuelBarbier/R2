@@ -11,8 +11,5 @@
 | Régime du batteur (tr/min)  | 250 – 400 tr/min  | 
 | Écartement du contre-batteur (mm)  | 35 – 40  | 
 
-![../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-20%20%C3%A0%2011.49.57.png](../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-20%20%C3%A0%2011.49.57.png)
+![../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-21%20%C3%A0%2019.10.51.png](../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-21%20%C3%A0%2019.10.51.png)
 
-![../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-20%20%C3%A0%2011.50.07.png](../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-20%20%C3%A0%2011.50.07.png)
-
-![../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-20%20%C3%A0%2011.50.19.png](../images/Capture%20d%E2%80%99%C3%A9cran%202025-04-20%20%C3%A0%2011.50.19.png)
