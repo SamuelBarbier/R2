@@ -1,9 +1,7 @@
 Nettoyer le capteur d'humidité
 -------------------------------------------------------
 
-Nettoyez le capteur chaque saison ou
-plus souvent selon votre utilisation, notamment si les relevés d'humidité sont
-irréguliers. 
+Nettoyez le capteur chaque saison ou plus souvent selon votre utilisation, notamment si les relevés d'humidité sont irréguliers. 
 
 Pour nettoyer le capteur d'humidité :
 

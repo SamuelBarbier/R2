@@ -9,15 +9,16 @@ Pour contrôler la chaîne de l'élévateur à grains :
 
 3. Tirez lentement sur la courroie d'entraînement ou sur la chaîne pour faire tourner l'élévateur.
 4. Tout en faisant tourner l’élévateur, inspectez soigneusement les maillons de palette et la chaîne de l'élévateur. 
-![Fig_1](../images/s_elevateur_palette_défaut.jpg)
-![Fig_2](../images/s_elevateur_flasque_défaut.jpg)
+
 5. Recherchez toute interférence ou tout frottement des palettes sur le carter et sur les flasques de roulement. (Fig. 1) 
-6. Contrôlez le bon état des maillons de chaîne et des pattes de fixation des palettes. (Fig. 2)
+![Fig_1](../images/s_elevateur_palette_défaut.jpg)
+6. Contrôlez le bon état des maillons de chaîne et des pattes de fixation des palettes. (Fig. 2) 
+![Fig_2](../images/s_elevateur_flasque_défaut.jpg)
 7. Assurez-vous que toutes les palettes en caoutchouc sont présentes, serrées et en bon état. 
 
     Les palettes usées ou abimées peuvent affecter la précision du système.
 
-8. Contrôlez la tension de la chaîne, répétez ce contrôle chaque semaine.  
+8.  Contrôlez la tension de la chaîne, répétez ce contrôle chaque semaine.  
    
    Une chaîne trop lâche : 
    - entraîne le repliement des palettes, 
