@@ -2,8 +2,12 @@
 <!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
 <bookmap>
     <booktitle>
+<<<<<<< HEAD
         <mainbooktitle>Formation et manuels de l’opérateur pour
             moissonneuses-batteuses</mainbooktitle>
+=======
+        <mainbooktitle>Documentation et manuels</mainbooktitle>
+>>>>>>> origin/main
     </booktitle>
     <chapter href="series_s.ditamap" format="ditamap"/>
     <chapter href="serie_w_et_t.ditamap" format="ditamap"/>
