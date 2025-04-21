@@ -6,4 +6,6 @@
     </booktitle>
     <chapter href="guide_de_nettoyage_serie_W%26T/map_guide_nettoyage_wandt.ditamap"
         format="ditamap"/>
+    <chapter href="livrable_individuel_esteban_graminees/map_gramin%C3%A9es.ditamap"
+            format="ditamap"/>
 </bookmap>

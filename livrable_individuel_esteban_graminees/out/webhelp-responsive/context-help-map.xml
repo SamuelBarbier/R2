@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="conversion-de-récolte---graminées" path="topics/cc_grass.html"/>
+   <appContext helpID="configuration-de-la-plateforme"
+               path="topics/configuration_plateforme.html"/>
+   <appContext helpID="convoyeur-dalimentation"
+               path="topics/convoyeur_alimentation.html"/>
+   <appContext helpID="battage" path="topics/battage.html"/>
+   <appContext helpID="contre-batteurs-sectionnels"
+               path="topics/contre_batteurs_sectionnels.html"/>
+   <appContext helpID="plage-de-régime-du-batteur-position-des-axes"
+               path="topics/plage_regime_batteurs.html"/>
+   <appContext helpID="séparation" path="topics/separation.html"/>
+   <appContext helpID="caisson-de-nettoyage" path="topics/caisson_nettoyage.html"/>
+   <appContext helpID="régime-du-ventilateur-à-deux-plages"
+               path="topics/regime_ventilateur.html"/>
+   <appContext helpID="manutention-du-grain" path="topics/manutention_grain.html"/>
+   <appContext helpID="changement-de-rapport-de-trémie-à-grain-configuration"
+               path="topics/changement_rapport_tremie.html"/>
+   <appContext helpID="joint-de-cardan-à-ailette-sur-vis-de-remplissage-de-trémie-à-grain"
+               path="topics/joint_cadran.html"/>
+   <appContext helpID="bxe-10996" path="topics/bxe.html"/>
+   <appContext helpID="résidus" path="topics/residus.html"/>
+   <appContext helpID="éparpilleur-de-menues-pailles--régime-et-ailettes"
+               path="topics/eparpilleur.html"/>
+   <appContext helpID="réglage-des-contre-couteaux" path="topics/contre_couteaux.html"/>
+   <appContext helpID="résidus---barre-transversale"
+               path="topics/barre_transversale.html"/>
+</map>

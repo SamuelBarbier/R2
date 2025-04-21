@@ -14,27 +14,7 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>jd_manuels_documentation.ditamap</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>DITA Map WebHelp Responsive - Copie</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>serie_s_ble/series_s_ble.ditamap</String>
+                                    <String>livrable_individuel_esteban_graminees/map_gramin%C3%A9es.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -55,6 +35,26 @@
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>serie_s_orge/serie_s_orge.ditamap</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>6/dita/ditamap.framework/DITA Map/DITA Map WebHelp Responsive</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>DITAMAP</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioStorageLocations">
+                                    <list>
+                                        <Byte>2</Byte>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>serie_s_ble/series_s_ble.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
@@ -114,27 +114,7 @@
                             </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>../../UNIVERSITE%20-%202024-2025/SEMESTRE%202/adaptation%20et%20reecriture/serie_s_activeyield2/active_yield.ditamap</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>DITA Map WebHelp Responsive - Copie</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>DITAMAP</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioStorageLocations">
-                                    <list>
-                                        <Byte>2</Byte>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
-                                    <String>../../UNIVERSITE%20-%202024-2025/SEMESTRE%202/adaptation%20et%20reecriture/serie_s_activeyield/active_yield.ditamap</String>
+                                    <String>file:/../../Downloads/lol/main/installation_manual_canadian_solar.ditamap</String>
                                 </field>
                                 <field name="scenarioIds">
                                     <list>
