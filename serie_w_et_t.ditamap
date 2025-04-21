@@ -8,4 +8,6 @@
         format="ditamap"/>
     <chapter href="livrable_individuel_esteban_graminees/map_gramin%C3%A9es.ditamap"
             format="ditamap"/>
+    <chapter href="conversion_recolte_pois/pois.ditamap"
+        format="ditamap"></chapter>
 </bookmap>
